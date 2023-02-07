@@ -5,14 +5,14 @@
 This section describes who the project would serve and why a language might be a
 good way to meet their needs.
 
-A DSL made for the daily intelecual who wants a better way to store personalbe information easily such as books/locations of owned books in a collection, reports, websites and other knowledge that is personalble to ones self. This DSL may incldude such a laguage that allows for easy input, recovery, and autaomitic storage and organization. 
+ 
 ### What's the need?
 
 _What need is met by your idea? Who are you helping? What is that person's
 experience like now? What would their experience be like if you could help
 them?_
 
-This laguage would aim to help the need for those who struggle to keep track of their personalble knowlege. Right now people use a collection of accumaltive apps such as notepad, zoetero, passward apps, and other note based collections. If such a DSL existed it would have the capability for people to store all of this info securley within one place. It would allow for easy acces to the info as well as easy storage. 
+A DSL made for the daily intelecual who wants a better way to store personalbe information easily such as books/locations of owned books in a collection, reports, websites and other knowledge that is personalble to ones self. This DSL may incldude such a laguage that allows for easy input, recovery, and autaomitic storage and organization. This laguage would aim to help the need for those who struggle to keep track of their personalble knowlege. Right now people use a collection of accumaltive apps such as notepad, zoetero, passward apps, and other note based collections. If such a DSL existed it would have the capability for people to store all of this info securley within one place. It would allow for easy acces to the info as well as easy storage. 
 
 ### Why a language?
 
